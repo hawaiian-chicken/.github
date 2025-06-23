@@ -1,8 +1,4 @@
 blank_issues_enabled: false  # "빈 이슈" 작성 버튼 비활성화
-contact_links:
-  - name: 📞 기타 문의
-    url: https://example.com/contact
-    about: 위 템플릿에 해당하지 않는 이슈는 이곳으로 문의해주세요.
 
 # 템플릿 순서 및 설명 설정
 issue_templates:
