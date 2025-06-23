@@ -4,20 +4,25 @@ blank_issues_enabled: false  # "빈 이슈" 작성 버튼 비활성화
 templates:
   - name: 🐛 Bug Report
     description: 서비스에서 발생한 버그를 신고합니다.
+    about: 버그를 신고하고 문제를 해결하는 데 도움을 주세요.
     file: bug_report.md
 
   - name: ✨ Feature Request
     description: 새로운 기능을 제안하거나 기존 기능을 개선합니다.
+    about: 새로운 기능 아이디어를 제안하거나 기존 기능 개선 방안을 제시해주세요.
     file: feature_suggestion.md
 
   - name: ❓ Question / Help
     description: 질문이 있거나 도움이 필요합니다.
+    about: 프로젝트에 대한 질문이나 도움이 필요한 내용을 작성해주세요.
     file: question.md
 
   - name: ✅ Task
     description: 해야 할 작업 또는 요청을 등록합니다.
+    about: 수행해야 할 작업이나 요청사항을 등록해주세요.
     file: task_request.md
 
   - name: 📝 Documentation
     description: 문서 수정 또는 추가 요청을 등록합니다.
+    about: 문서 개선이나 추가가 필요한 부분을 알려주세요.
     file: documentation.md
