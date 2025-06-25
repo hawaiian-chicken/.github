@@ -1,7 +1,8 @@
 ---
 name: 📝 Documentation
-description: 문서 오류 수정 또는 추가 요청
-labels: documentation
+about: 문서 오류 수정 또는 추가 요청
+labels: ["documentation"]
+title: "[Documentation] "
 ---
 
 ## 📚 문제 설명 또는 추가 요청

@@ -1,7 +1,8 @@
 ---
 name: ❓ Question / Help
-description: 프로젝트와 관련된 질문이나 도움 요청
-labels: question
+about: 프로젝트와 관련된 질문이나 도움 요청
+labels: ["question"]
+title: "[Question / Help] "
 ---
 
 ## ❔ 질문 내용

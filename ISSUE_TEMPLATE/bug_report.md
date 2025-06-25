@@ -1,7 +1,8 @@
 ---
 name: 🐛 Bug Report
-description: 버그나 오류를 신고해주세요.
-labels: bug
+about: 버그나 오류를 신고해주세요.
+labels: ["bug"]
+title: "[Bug] "
 ---
 
 ## 🐞 버그 설명

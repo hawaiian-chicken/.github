@@ -1,7 +1,8 @@
 ---
 name: ✨ Feature Suggestion
-description: 새로운 기능 또는 개선점을 제안해주세요.
-labels: enhancement
+about: 새로운 기능 또는 개선점을 제안해주세요.
+labels: ["enhancement"]
+title: "[Feature] "
 ---
 
 ## ✨ 제안하는 기능 설명
